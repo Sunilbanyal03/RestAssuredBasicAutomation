@@ -1,0 +1,68 @@
+[
+  {
+    "coin": "ETH",
+    "priceInInr": "44.0",
+    "volumeInInr": "8.1",
+    "platform": "Coindcx"
+  },
+  {
+    "coin": "ETH",
+    "priceInInr": "29.0",
+    "volumeInInr": "8",
+    "platform": "wazirX"
+  },
+  {
+    "coin": "BTC",
+    "priceInInr": "57.0",
+    "volumeInInr": "5",
+    "platform": "Coindcx"
+  },
+  {
+    "coin": "ETH",
+    "priceInInr": "23.0",
+    "volumeInInr": "7",
+    "platform": "Coindcx"
+  },
+  {
+    "coin": "ETH",
+    "priceInInr": "53.0",
+    "volumeInInr": "7",
+    "platform": "wazirX"
+  },
+  {
+    "coin": "BTC",
+    "priceInInr": "29.0",
+    "volumeInInr": "8",
+    "platform": "Coindcx"
+  },
+  {
+    "coin": "ETH",
+    "priceInInr": "38.0",
+    "volumeInInr": "8.1",
+    "platform": "Coindcx"
+  },
+  {
+    "coin": "BTC",
+    "priceInInr": "39.0",
+    "volumeInInr": "10",
+    "platform": "wazirX"
+  },
+  {
+    "coin": "BTC",
+    "priceInInr": "50.0",
+    "volumeInInr": "10",
+    "platform": "Coindcx"
+  },
+  {
+    "coin": "BTC",
+    "priceInInr": "20.0",
+    "volumeInInr": "8",
+    "platform": "wazirX"
+  },
+  {
+    "coin": "BTC",
+    "priceInInr": "51.0",
+    "volumeInInr": "7",
+    "platform": "wazirX"
+  }
+]
